@@ -2,7 +2,7 @@
 
 **Author:** Farish  
 **Language:** Python 3  
-**Purpose:** Scan Dell Laser Printers for unauthenticated access and exposed security pages.
+**Purpose:** Scan Dell Laser Printers for unauthenticated access.
 
 ---
 
