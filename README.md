@@ -1,4 +1,4 @@
-# Dell Laser Printer - Unauthenticated Access Scanner
+# Dell Laser Printer - Unauthenticated Access
 
 **Author:** Farish  
 **Language:** Python 3  
