@@ -14,7 +14,7 @@ python3 dell_laser_printer.py 192.168.1.100
 python3 dell_laser_printer.py https://192.168.1.4
 
 #Output 
-[+] Dell Laser Printer detected at http://152.1.72.46
+[+] Dell Laser Printer detected at http://192.168.1.4
     Printer version: B2360dn
     [+] Application is vulnerable for authentication bypass!
 
